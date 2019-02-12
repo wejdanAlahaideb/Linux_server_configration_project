@@ -1,4 +1,5 @@
 # Linux_server_configration_project
+This server is on digitalocean droplet
 1.	The Server IP address: 206.189.143.92
 2.	SSH port: 26
 3.	The complete URL hosted web application: http://206.189.143.92/ 
